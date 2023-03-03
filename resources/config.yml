@@ -1,0 +1,13 @@
+# Available Tags
+# RAM
+# {total_ram} Get Total Used Ram
+# {available_ram} Get Available Ram
+# CPU
+# {total_cpu_load} Get Total CPU Loaded
+# {cpu_count} Get Count of CPU
+# DISK SPACE
+# {total_space} Get Total DiskSpace
+# {available_space} Get Total Available DiskSpace
+# OTHERS
+# {line} use for New line you can use \n
+message: "§aYour Host Statistics{line}{line}§aRAM Information{line}§fAvailable RAM: §a{available_ram} §f/ §a{total_ram}{line}{line}§aCPU Information{line}§fCPU: §a{cpu_count}{line}§fLoad: §a{total_cpu_load}{line}{line}§aDiskSpace Information{line}§fAvailable DiskSpace: §a{available_space} §f/ §a{total_space}"
