@@ -1,5 +1,5 @@
 # General
-A Plugin for PocketMine-MP Software for get Information from Host Like Ram, CPU, Disk Space
+A Plugin for PocketMine-MP Software for get Information from Host Like Ram, CPU, Disk Space.</br></br>Usually this plugin is used for  Check if Pterodactyl or Host Panel is Fake Ram or Not.
 
 ## Commands
 You can use commands `/gethostinfo` or `/hostinfo` Only Player with permission `gethostinfo.cmd` can use the commands!
